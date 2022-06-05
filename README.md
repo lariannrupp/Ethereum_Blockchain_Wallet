@@ -6,6 +6,9 @@ The purpose of this project is to create a streamlit application called "Fintech
 
 ---
 
+![19-4-challenge-image](https://user-images.githubusercontent.com/95719899/172075883-e48ba4aa-c4cd-480b-9cca-7402a013c815.png)
+
+
 ## Technologies
 
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/95719899/172075328-3d283af5-369f-4dd6-aa2d-51842e496428.png)
@@ -72,8 +75,6 @@ Ganache Transaction:
 ![Screenshot 2022-06-05 172953](https://user-images.githubusercontent.com/95719899/172075834-9bd5c2f9-fb3f-4529-a4a8-3f80591d175e.jpg)
 
 ---
-
-## Contributors
 
 ## Contributors
 
